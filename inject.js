@@ -1,4 +1,4 @@
-// copied with pride from http://stackoverflow.com/questions/1118198/how-can-you-figure-out-the-highest-z-index-in-your-document
+// adapted with pride from http://stackoverflow.com/questions/1118198/how-can-you-figure-out-the-highest-z-index-in-your-document
 // thanks a lot to http://stackoverflow.com/users/136852/flo
 function findHighestZIndex(elem)
 {
